@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "hello",
+      "id": 2
+    },
+    {
+      "title": "me streaming barbie",
+      "description": "barbie",
+      "userId": "106108817660049163057",
+      "id": 5
+    }
+  ]
+}
